@@ -50,14 +50,25 @@ Successful replies confirmed that the lab machine had internet connectivity.
 A VirtualBox shared folder named downloads was configured to allow file sharing between the host system and the Kali Linux virtual machine.
 
 📸 Screenshots
-Screenshots in this repository provide evidence of:
-NAT Network configuration
-Kali Linux IP configuration
-Internet connectivity
-VirtualBox network settings
-Shared folder configuration
-Shared Clipboard configuration
-Virtual machine snapshot
+### 1. NAT Network Configuration
+
+![NAT Network](screenshots/Screenshot%202026-09-10%20123419.png)
+
+### 2. Kali Linux IP Configuration
+
+![IP Configuration](screenshots/Screenshot%202026-09-10%20131656.png)
+
+### 3. Internet Connectivity Test
+
+![Ping Test](screenshots/Screenshot%202026-09-10%20224908.png)
+
+### 4. VirtualBox Lab Configuration
+
+![VirtualBox Configuration](screenshots/Screenshot%202026-09-10%20225312.png)
+
+### 5. Shared Clipboard / Lab Settings
+
+![Shared Clipboard](screenshots/Screenshot%202026-09-12%20104639.png)
 
 🎯 Objective
 The main objective of this project is to build a controlled cybersecurity testing environment where security tools and techniques can be practiced safely and only on authorized systems.
