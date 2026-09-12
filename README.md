@@ -65,7 +65,7 @@ The main objective of this project is to build a controlled cybersecurity testin
 📚 Learning Outcomes
 Through this setup, I gained practical experience in:
 * Virtual machine configuration
-*Kali Linux setup
+* Kali Linux setup
 * NAT networking
 * Static IP configuration
 * Linux network configuration
