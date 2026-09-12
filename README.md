@@ -53,11 +53,11 @@ A VirtualBox shared folder named downloads was configured to allow file sharing 
 📸 Screenshots
 ### 1. NAT Network Configuration
 
-![NAT Network](screenshots/Screenshot%202026-09-10%2012_34_19.png)
+![NAT Network](screenshots/Screenshot_202026-09-10%2012_34_19.png)
 
 ### 2. Kali Linux IP Configuration
 
-![IP Configuration](screenshots/Screenshot%202026-09-10%2013_16_56.png)
+![IP Configuration](screenshots/Screenshot_202026-09-10%2013_16_56.png)
 
 ### 3. Internet Connectivity Test
 
