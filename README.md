@@ -44,6 +44,7 @@ Network     : 10.0.0.0/24
 🧪 Connectivity Test
 Internet connectivity was verified from Kali Linux using:
 ping google.com
+```
 Successful replies confirmed that the lab machine had internet connectivity.
 
 📁 Shared Folder
